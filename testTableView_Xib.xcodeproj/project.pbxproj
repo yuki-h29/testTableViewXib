@@ -46,7 +46,6 @@
 		23BAA6AA2A2765A400027F1B = {
 			isa = PBXGroup;
 			children = (
-				2341B9FA2A27915100E6EDFD /* SecondViewController.swift */,
 				23BAA6B52A2765A400027F1B /* testTableView_Xib */,
 				23BAA6B42A2765A400027F1B /* Products */,
 			);
@@ -66,6 +65,7 @@
 				23BAA6B62A2765A400027F1B /* AppDelegate.swift */,
 				23BAA6B82A2765A400027F1B /* SceneDelegate.swift */,
 				23BAA6BA2A2765A400027F1B /* ViewController.swift */,
+				2341B9FA2A27915100E6EDFD /* SecondViewController.swift */,
 				23FDE55C2A2775F30062AAE1 /* TableViewCells */,
 				23BAA6BC2A2765A400027F1B /* Main.storyboard */,
 				23BAA6BF2A2765A800027F1B /* Assets.xcassets */,
